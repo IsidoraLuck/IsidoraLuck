@@ -6,15 +6,13 @@
 
 <p align="center">
   <em>
-    Hola, me llamo Isidora Carolina Luck Jara, una estudiante que toma sobre carga academica por amor al arte. <br>
+    Hola, me llamo Isidora Carolina Luck Jara, soy una estudiante de ingenieria civil industrial de la Universidad de Chile que toma sobre carga academica por amor al arte. <br>
 </p>
 <hr>
     
 ### Sobre mi:
     
--   🌱 Actualmente estoy cursando mi 5to año de universidad, en la carrera de ingenieria civil industrial
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
+-   🌱 Actualmente estoy cursando mi 5to año de universidad.
 -   😄 Pronouns: ...
 -   🔭 I’m currently working on ...
 -   ⚡ Sobre aficiones: Me gusta perder mi tiempo en **Anime y Videojuegos**, el resto lo hago por gusto y supervivencia como **Cocinar y Dormir**.
@@ -23,6 +21,15 @@
 -   ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
 
 <hr>
+### Sobre mi experiencia laboral:
+    
+-   🌱 Mi primera practica fue durante enero y febrero del 2023, en el área de Analitycs en BI de Falabella Retail.
+-   😄 Pronouns: ...
+-   🔭 I’m currently working on ...
+-   ⚡ Sobre aficiones: Me gusta perder mi tiempo en **Anime y Videojuegos**, el resto lo hago por gusto y supervivencia como **Cocinar y Dormir**.
+-   📫 Como contactarme: No lo hagan, no me gusta sociabilizar, es suficiente con lo que nos obligan en Industrias.
+-   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
+-   ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
 
 <hr>
 
