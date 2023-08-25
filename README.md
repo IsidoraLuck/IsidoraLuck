@@ -6,7 +6,6 @@
 <p align="center">
   <em>
     Hola, me llamo Isidora Carolina Luck Jara, soy una estudiante de ingenieria civil industrial de la Universidad de Chile que toma sobre carga academica por amor al arte. <br>
-    Hola, me llamo Isidora Carolina Luck Jara, soy una estudiante de ingenieria civil industrial de la Universidad de Chile que toma sobre carga academica por amor al arte. <br>
 </p>
 <hr>
     
