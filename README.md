@@ -1,61 +1,36 @@
-### Hola 👋
+## Hola 👋
 
-<!--
-**IsidoraLuck/IsidoraLuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <p align="center">
   <em>
-    Hola, me llamo Isidora Luck, estoy cursando mi 5to año de universidad. <br>
-    A budding <b>Full-Stack Web Developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="assets/gifs/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="assets/gifs/Medal.gif" width="20px">&nbsp.
-  </em>
+    Hola, me llamo Isidora Carolina Luck Jara, soy una estudiante de ingenieria civil industrial de la Universidad de Chile que toma sobre carga academica por amor al arte. <br>
 </p>
-  
-> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
-
-<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
-
--   🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
--   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
--   💬 AMA, I am happy to help!
--   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
--   😄 Pronouns: [She/Her](https://pronoun.is/she)
--   ⚡ Fun fact: I like **Shinchan, sleeping, coding, listening to music, eating and blah blah blah**. I dislike everything except my likes!
+<hr>
+    
+### Sobre mi:
+    
+-   🌱 Actualmente estoy cursando mi 5to año de universidad.
+-   ⚡ Sobre aficiones: Me gusta perder mi tiempo en **Anime y Videojuegos**, el resto lo hago por gusto y supervivencia como **Cocinar y Dormir**.
+-   📫 Como contactarme: No lo hagan, no me gusta sociabilizar, es suficiente con lo que nos obligan en Industrias.
 
 <hr>
 
-<p align = "center">
-  <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=lostgirljourney&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true&count_private=true" alt="GitHub Status" />
-</p>
+### Sobre mi experiencia laboral:
+    
+-   🌱 Mi primera practica fue durante enero y febrero del 2023, en el área de Analitycs en BI de Falabella Retail.
+-   😄 Durante el primer semestre del 2023, entre marzo y julio, trabaje como ayudante del curso ingenieria de la información en la Universidad de Chile.
+-   🔭 Actualmente trabajo de manera gratuita en la Fundación Integra en la Región de los Ríos realizando reporteria en Power BI y estableciendo estandarizaciones a la hora de recolectar datos.
 
 <hr>
 
 <p align="center">
-<i><b>Languages Currently Learning:</b></i> 
+<i><b>Lenguajes de programación que me encuentro aprendiendo:</b></i> 
   <br><br>
-  <img align="center" src="assets/languages/c.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/react.png" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/css.svg" width="50px" />&nbsp;
+  <img align="center" src="assets/languages/r.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/javascript.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/cpp.svg" width="50px" />&nbsp;
 </p>
 
 <hr>
